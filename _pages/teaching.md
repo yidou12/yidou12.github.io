@@ -10,9 +10,9 @@ Operating System
 * 2024 Spring, 2024 fall
 * Undergraduate
 * [Course slides can be found here.](osdownload.md)
-* [A link for self studying operating system.](https://oscourse.org) Also created by Prof. Baochun Li.
  
- C programming language
+ 
+ C Programming Language
 ======
 * 2022 fall, 2023 fall
 * Undergraduate
