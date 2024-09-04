@@ -1,7 +1,7 @@
 ---
 layout: archive
 title: "Download"
-permalink: /download/
+permalink: /cpdownload/
 author_profile: true
 ---
 
