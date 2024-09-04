@@ -7,7 +7,10 @@ author_profile: true
 
 Slides of Operating System
 ======
-* [Chapter-1](../download/chapter1)   
+* [Chapter-1-1](../download/chapter1/1.1 操作系统基本概念.pdf)
+* [Chapter-1-2](../download/chapter1/1.2 操作系统形成与发展.pdf)
+* [Chapter-1-3](../download/chapter1/1.3 操作系统结构设计.pdf)
+
 
 
 Slides of C programming language
