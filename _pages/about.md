@@ -14,6 +14,6 @@ I received my Bachelor and Master degrees from Nanjing University of Posts and T
 
 For Prospective Students
 ======
-I am always looking for self-motivated graduate students, if you are interested in what I am doing, please send [me](yi.dou@njupt.edu.cn) your CV. For NJUPT students, I strongly encourage to do your final year project with me.
+I am always looking for self-motivated graduate students, if you are interested in what I am doing, please send [me](yi.dou@njupt.edu.cn) your CV.  
  
   
