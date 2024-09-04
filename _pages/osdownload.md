@@ -1,7 +1,7 @@
 ---
 layout: archive
 title: "Download of Operating System"
-permalink: /osdownload/
+permalink: /download/
 author_profile: true
 ---
 
