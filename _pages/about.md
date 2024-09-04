@@ -16,7 +16,7 @@ My general research interests are in the areas of searchable encryption, privacy
 
 For Prospective Students
 ======
-I am always looking for self-motivated graduate students, if you are interested in what I am doing, please send [me](yi.dou@njupt.edu.cn) your CV. 
+I am always looking for self-motivated graduate students, if you are interested in what I am doing, please send <a href="mailto:yi.dou@njupt.edu.cn">me</a> your CV. 
 
 Candidates with some research or project experience will be given priority. Outstanding performance during graduate studies will provide opportunities for academic exchange. There will also be opportunities to be recommended for fully funded PhD programs and research assistant positions at The Hong Kong Polytechnic University, The University of Hong Kong, the University of Wollongong, and other institutions.
 
