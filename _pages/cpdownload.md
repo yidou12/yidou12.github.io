@@ -1,7 +1,7 @@
 ---
 layout: archive
-title: "Download"
-permalink: /cpdownload/
+title: "Download of C programming language"
+permalink: /download/
 author_profile: true
 ---
 
