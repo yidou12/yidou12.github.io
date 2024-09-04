@@ -5,7 +5,7 @@ permalink: /download/
 author_profile: true
 ---
 
-Slides of Computer Networks
+Slides of Operating System
 ======
 * [Chapter-1](../download/第1章_概述.pdf)
 * [Chapter-2](../download/第2章_数据通信技术基础.pdf)
@@ -17,7 +17,7 @@ Slides of Computer Networks
 * [Chapter-7](../download/第7章-应用层.pdf)
 
 
-Slides of Switching Technology in Communication Networks
+Slides of C programming language
 ======
 * [Chapter-1-1](../download/switching/chapter1-1.pdf)
 * [Chapter-1-2](../download/switching/chapter1-2.pdf)
