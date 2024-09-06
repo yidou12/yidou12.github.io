@@ -14,7 +14,6 @@ Operating System
  C Programming Language
 ======
 * 2022 Fall, 2023 Fall
-* Undergraduate
 * [Course slides](cpdownload.md)
  
 
