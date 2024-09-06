@@ -8,7 +8,7 @@ author_profile: true
 Operating System
 ======
 * 2024 Spring, 2024 Fall
-* [syllabus.](../osdownload/chapter1/1.1_操作系统基本概念.pdf)
+* [Syllabus.](../osdownload/课程简介.pdf)
 * [Course materials can be found here.](osdownload.md)
  
  
