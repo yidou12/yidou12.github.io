@@ -11,6 +11,12 @@ Slides
 
 * [Chapter-2-1](../osdownload/chapter2/2.1_进程及其实现.pdf)&nbsp;&nbsp;&nbsp;&nbsp;     [Chapter-2-2](../osdownload/chapter2/2.2_进程控制.pdf)
 
+
+Answers 
+====== 
+* [Chapter-1-1](../osdownload/chapter1/1.1_操作系统基本概念.pdf)&nbsp;&nbsp;&nbsp;&nbsp; 
+
+
 Labs 
 ====== 
 
