@@ -14,7 +14,7 @@ Slides
 
 Answers 
 ====== 
-* [Chapter-1-1](../osdownload/chapter1/1.1_操作系统基本概念.pdf)&nbsp;&nbsp;&nbsp;&nbsp; 
+* [Chapter-1-1](../osdownload/第1章_操作系统绪论_习题答案.pdf)&nbsp;&nbsp;&nbsp;&nbsp; 
 
 
 Labs 
