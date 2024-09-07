@@ -16,6 +16,13 @@ Slides
 * [Chapter-10](../cpdownload/chap10_结构联合枚举_C教材第3版.pdf)&nbsp;&nbsp;&nbsp;&nbsp;     [Chapter-11](../cpdownload/chap11_文件_C教材第3版.pdf)
 
 
+SourceCode
+======
+* [Chapter-2](../cpdownload/Chapter_2.zip)&nbsp;&nbsp;&nbsp;&nbsp;     [Chapter-3](../cpdownload/Chapter_3.zip)&nbsp;&nbsp;&nbsp;&nbsp;   [Chapter-4](../cpdownload/Chapter_4.zip)
+  
+* [Chapter-5](../cpdownload/Chapter_5.zip)&nbsp;&nbsp;&nbsp;&nbsp;     [Chapter-6](../cpdownload/Chapter_6.zip)&nbsp;&nbsp;&nbsp;&nbsp;   [Chapter-7](../cpdownload/Chapter_7.zip)
+  
+* [Chapter-8](../cpdownload/Chapter_8.zip)&nbsp;&nbsp;&nbsp;&nbsp;     [Chapter-9](../cpdownload/Chapter_9.zip)&nbsp;&nbsp;&nbsp;&nbsp;   [Chapter-10](../cpdownload/Chapter_10.zip)&nbsp;&nbsp;&nbsp;&nbsp;     [Chapter-11](../cpdownload/Chapter_11.zip)
 
 
 Labs 
