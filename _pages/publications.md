@@ -14,4 +14,4 @@ Dou, Yi; Chan, Henry C. B.; Leakage-Suppressed Encrypted Keyword Queries over Mu
 
 Dou, Yi; Chan, Henry C. B.; Au, Man Ho ; Order-Hiding Range Query over Encrypted Data without Search Pattern Leakage, The Computer Journal , 2018, 61(12): 1806-1824. 
 
-Dou, Yi; Chan, Henry C. B. ; Access Pattern Hidden Query over Encrypted Data through Multi-clouds, IEEE Global Communications Conference, Singapore, 2017-12-4至2017-12-8.  
+Dou, Yi; Chan, Henry C. B. ; Access Pattern Hidden Query over Encrypted Data through Multi-clouds, IEEE Global Communications Conference, Singapore, 2017.  
