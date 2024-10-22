@@ -9,8 +9,7 @@ Slides
 ======
 * [Chapter-1-1](../osdownload/chapter1/1.1_操作系统基本概念.pdf)&nbsp;&nbsp;&nbsp;&nbsp;     [Chapter-1-2](../osdownload/chapter1/1.2_操作系统形成与发展.pdf)&nbsp;&nbsp;&nbsp;&nbsp;       [Chapter-1-3](../osdownload/chapter1/1.3_操作系统结构设计.pdf)
 
-* [Chapter-2-1](../osdownload/chapter2/2.1_进程及其实现.pdf)&nbsp;&nbsp;&nbsp;&nbsp;     [Chapter-2-2](../osdownload/chapter2/2.2_进程控制.pdf)&nbsp;&nbsp;&nbsp;&nbsp; [Chapter-2-3](../osdownload/chapter2/2.3_处理器调度.pdf)&nbsp;&nbsp;&nbsp;&nbsp; [Chapter-2-4](../osdownload/chapter2/2.4_进程联系.pdf)&nbsp;&nbsp;&nbsp;&nbsp; [Chapter-2-5](../osdownload/chapter2/2.5_临界区管理.pdf)&nbsp;&nbsp;&nbsp;&nbsp; [Chapter-2-6](../osdownload/chapter2/2.6_信号量与PV操作.pdf)
-
+* [Chapter-2-1](../osdownload/chapter2/2.1_进程及其实现.pdf)&nbsp;&nbsp;&nbsp;&nbsp;     [Chapter-2-2](../osdownload/chapter2/2.2_进程控制.pdf)&nbsp;&nbsp;&nbsp;&nbsp; [Chapter-2-3](../osdownload/chapter2/2.3_处理器调度.pdf)&nbsp;&nbsp;&nbsp;&nbsp; [Chapter-2-4](../osdownload/chapter2/2.4_进程联系.pdf)&nbsp;&nbsp;&nbsp;&nbsp; [Chapter-2-5](../osdownload/chapter2/2.5_临界区管理.pdf)&nbsp;&nbsp;&nbsp;&nbsp; [Chapter-2-6](../osdownload/chapter2/2.6_信号量与PV操作.pdf)&nbsp;&nbsp;&nbsp;&nbsp; [Chapter-2-7](../osdownload/chapter2/2.7_进程通信.pdf)
   
 
 Answers 
