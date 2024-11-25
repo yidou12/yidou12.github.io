@@ -12,7 +12,11 @@ Slides
 * [Chapter-2-1](../osdownload/chapter2/2.1_进程及其实现.pdf)&nbsp;&nbsp;&nbsp;&nbsp;     [Chapter-2-2](../osdownload/chapter2/2.2_进程控制.pdf)&nbsp;&nbsp;&nbsp;&nbsp; [Chapter-2-3](../osdownload/chapter2/2.3_处理器调度.pdf)&nbsp;&nbsp;&nbsp;&nbsp; [Chapter-2-4](../osdownload/chapter2/2.4_进程联系.pdf)&nbsp;&nbsp;&nbsp;&nbsp; [Chapter-2-5](../osdownload/chapter2/2.5_临界区管理.pdf)&nbsp;&nbsp;&nbsp;&nbsp; [Chapter-2-6](../osdownload/chapter2/2.6_信号量与PV操作.pdf)&nbsp;&nbsp;&nbsp;&nbsp; [Chapter-2-7](../osdownload/chapter2/2.7_进程通信.pdf)&nbsp;&nbsp;&nbsp;&nbsp; [Chapter-2-8](../osdownload/chapter2/2.8_进程死锁.pdf)
 
 * [Chapter-3-1](../osdownload/chapter3/3.1_存储管理基本概念.pdf)&nbsp;&nbsp;&nbsp;&nbsp;  [Chapter-3-2](../osdownload/chapter3/3.2_分页存储管理机制.pdf)&nbsp;&nbsp;&nbsp;&nbsp; [Chapter-3-3](../osdownload/chapter3/3.3_分段存储管理机制.pdf)&nbsp;&nbsp;&nbsp;&nbsp;[Chapter-3-4](../osdownload/chapter3/3.4_虚拟存储管理机制.pdf)&nbsp;&nbsp;&nbsp;&nbsp;
-  
+
+* [Chapter-4-1](../osdownload/chapter4/4.1_设备管理基本概念.pdf )&nbsp;&nbsp;&nbsp;&nbsp;  [Chapter-4-2](../osdownload/chapter4/4.2_设备控制方式.pdf)&nbsp;&nbsp;&nbsp;&nbsp;  
+
+
+ 
 
 Answers 
 ====== 
