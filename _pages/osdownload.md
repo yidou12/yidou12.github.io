@@ -16,7 +16,7 @@ Slides
 
 Answers 
 ====== 
-* [Chapter-1](../osdownload/第1章_操作系统绪论_习题答案.pdf)&nbsp;&nbsp;&nbsp;&nbsp; [Chapter-2](../osdownload/第2章_处理器管理_习题答案.pdf)&nbsp;&nbsp;&nbsp;&nbsp; [Chapter-3](../osdownload/第3章_存储管理_习题答案.pdf) &nbsp;&nbsp;&nbsp;&nbsp; [Chapter-4](../osdownload/第4章_IO设备管理_习题答案.pdf) 
+* [Chapter-1](../osdownload/第1章_操作系统绪论_习题答案.pdf)&nbsp;&nbsp;&nbsp;&nbsp; [Chapter-2](../osdownload/第2章_处理器管理_习题答案.pdf)&nbsp;&nbsp;&nbsp;&nbsp; [Chapter-3](../osdownload/第3章_存储管理_习题答案.pdf)&nbsp;&nbsp;&nbsp;&nbsp; [Chapter-4](../osdownload/第4章_IO设备管理_习题答案.pdf)&nbsp;&nbsp;&nbsp;&nbsp; [Chapter-5](../osdownload/第5章_文件管理_习题答案.pdf) 
  
 
 
