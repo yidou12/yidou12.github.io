@@ -13,8 +13,7 @@ Slides
 
 * [Chapter-3-1](../osdownload/chapter3/3.1_存储管理基本概念.pdf)&nbsp;&nbsp;&nbsp;&nbsp;  [Chapter-3-2](../osdownload/chapter3/3.2_分页存储管理机制.pdf)&nbsp;&nbsp;&nbsp;&nbsp; [Chapter-3-3](../osdownload/chapter3/3.3_分段存储管理机制.pdf)&nbsp;&nbsp;&nbsp;&nbsp;[Chapter-3-4](../osdownload/chapter3/3.4_虚拟存储管理机制.pdf)&nbsp;&nbsp;&nbsp;&nbsp;
 
-* [Chapter-4-1](../osdownload/chapter4/4.1_设备管理基本概念.pdf)&nbsp;&nbsp;&nbsp;&nbsp;  [Chapter-4-2](../osdownload/chapter4/4.2_设备控制方式.pdf)&nbsp;&nbsp;&nbsp;&nbsp; [Chapter-4-3](../osdownload/chapter4/4.3_缓冲技术.pdf)&nbsp;&nbsp;&nbsp;&nbsp;  
-
+* [Chapter-4-1](../osdownload/chapter4/4.1_设备管理基本概念.pdf)&nbsp;&nbsp;&nbsp;&nbsp;  [Chapter-4-2](../osdownload/chapter4/4.2_设备控制方式.pdf)&nbsp;&nbsp;&nbsp;&nbsp; [Chapter-4-3](../osdownload/chapter4/4.3_缓冲技术.pdf)&nbsp;&nbsp;&nbsp;&nbsp; [Chapter-4-4](../osdownload/chapter4/4.4_外存储设备管理.pdf) 
 
  
 
