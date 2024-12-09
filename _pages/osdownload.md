@@ -15,7 +15,9 @@ Slides
 
 * [Chapter-4-1](../osdownload/chapter4/4.1_设备管理基本概念.pdf)&nbsp;&nbsp;&nbsp;&nbsp;  [Chapter-4-2](../osdownload/chapter4/4.2_设备控制方式.pdf)&nbsp;&nbsp;&nbsp;&nbsp; [Chapter-4-3](../osdownload/chapter4/4.3_缓冲技术.pdf)&nbsp;&nbsp;&nbsp;&nbsp; [Chapter-4-4](../osdownload/chapter4/4.4_外存储设备管理.pdf) 
 
+* [Chapter-5-1](../osdownload/chapter5/5.1_文件管理基本概念.pdf)&nbsp;&nbsp;&nbsp;&nbsp;  [Chapter-5-2](../osdownload/chapter5/5.2_文件目录.pdf)&nbsp;&nbsp;&nbsp;&nbsp; [Chapter-5-3](../osdownload/chapter5/5.3_文件的物理结构.pdf)&nbsp;&nbsp;&nbsp;&nbsp; [Chapter-5-4](../osdownload/chapter5/5.4_文件安全.pdf) 
  
+
 
 Answers 
 ====== 
